@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">AlmondiRes</string>
+
+    <!-- login -->
+    <string name="usuario">Benutzername</string>
+    <string name="contrasena">Passwort</string>
+    <string name="escribeUsuario">Benutzernamen eingeben...</string>
+    <string name="escribeContrasena">Passwort eingeben...</string>
+    <string name="iniciarSesion">Anmelden</string>
+    <string name="registrarse">Registrieren</string>
+
+    <!-- register -->
+    <string name="registrate">REGISTRIEREN!</string>
+    <string name="editar_perfil">Profil bearbeiten</string>
+    <string name="email">E-Mail:</string>
+    <string name="escribeEmail">E-Mail eingeben...</string>
+    <string name="repiteEmail">E-Mail wiederholen...</string>
+    <string name="repetirContrasena">Passwort wiederholen:</string>
+    <string name="repiteContrasena">Passwort erneut eingeben...</string>
+    <string name="telefono">Telefon:</string>
+    <string name="escribeTelefono">Telefonnummer eingeben...</string>
+    <string name="guardar">Speichern</string>
+    <string name="volverAtras">Zurück</string>
+    <string name="atras">Zurück</string>
+    <string name="escribeNombre">Namen eingeben...</string>
+    <string name="btn_add_alojamiento">Unterkunft hinzufügen</string>
+    <string name="hint_nombre_alojamiento">Name der Unterkunft</string>
+    <string name="hint_precio_alojamiento">Preis</string>
+    <string name="registro_completado">Registrierung erfolgreich abgeschlossen</string>
+    <string name="error_registro">Fehler beim Erstellen des Benutzers</string>
+
+    <!-- main -->
+    <string name="reservar">Buchen</string>
+    <string name="llamanos">Rufen Sie uns an</string>
+
+    <!-- reservas -->
+    <string name="fechaInicio">Startdatum:</string>
+    <string name="fechaFin">Enddatum:</string>
+    <string name="nombre">Name:</string>
+    <string name="nombreCliente">Name des Kunden</string>
+    <string name="numNoches">Nächte:</string>
+    <string name="numTelefono">Telefonnummer:</string>
+    <string name="seleccionar_alojamiento">Unterkunft auswählen</string>
+    <string name="edtNumTelefono">Telefon...</string>
+    <string name="alojamiento1">Unterkunft 1</string>
+    <string name="alojamiento2">Unterkunft 2</string>
+    <string name="alojamiento3">Unterkunft 3</string>
+    <string name="alojamiento4">Unterkunft 4</string>
+    <string name="borrar">Löschen</string>
+    <string name="error_fecha_fin">Das Enddatum muss nach dem Startdatum liegen</string>
+    <string name="confirmacion_reserva">Bestätigung wurde an %1$s gesendet.</string>
+    <string name="sms_reserva">Ihre Buchung vom %1$s bis %2$s für %3$s wurde bestätigt.</string>
+    <string name="error_sms_reserva">SMS-Fehler:</string>
+
+    <!-- Perfil -->
+    <string name="cerrar_sesion">Abmelden</string>
+
+    <!-- item reservas -->
+    <string name="precioTotal">Gesamtpreis:</string>
+    <string name="cancelar">X</string>
+    <string name="noches">Nächte:</string>
+    <string name="editar">Bearbeiten</string>
+
+    <!-- dialog confirmacion -->
+    <string name="pregunta_cancelar">Möchten Sie die Buchung wirklich stornieren?</string>
+    <string name="confirmar">Bestätigen</string>
+    <string name="boton_cancelar">Abbrechen</string>
+    <string name="editar_reserva">Buchung bearbeiten</string>
+    <string name="selecciona_alojamiento">Unterkunft auswählen:</string>
+
+    <!-- Toasts -->
+    <string name="error_login">Benutzername oder Passwort ist falsch</string>
+    <string name="fecha_ocupada">Dieses Datum ist bereits belegt</string>
+    <string name="fecha_NoOcupada">Dieses Datum ist verfügbar</string>
+    <string name="error_password">Die Passwörter stimmen nicht überein</string>
+    <string name="campos_vacios">Bitte füllen Sie alle Felder aus</string>
+    <string name="perfil_actualizado">Profil erfolgreich aktualisiert</string>
+    <string name="error_perfil_actualizado">Profil konnte nicht aktualisiert werden</string>
+
+    <!-- Menu -->
+    <string name="nav_reservas">Buchungen</string>
+    <string name="nav_calendario">Kalender</string>
+    <string name="nav_perfil">Profil</string>
+    <string name="nav_estadisticas">Statistiken</string>
+    <string name="nav_logout">Abmelden</string>
+
+    <!-- Estadisticas -->
+    <string name="estadisticas">Statistiken</string>
+    <string name="ingresos_diarios">Tägliche Einnahmen (Heute)</string>
+    <string name="ingresos_mensuales">Monatliche Einnahmen (Aktueller Monat)</string>
+    <string name="ingresos_anuales">Jährliche Einnahmen (Aktuelles Jahr)</string>
+    <string name="general">Allgemein</string>
+
+    <!-- idiomas -->
+    <string name="idiomas">Sprachen</string>
+
+    <string-array name="idiomas">
+        <item>Sprache auswählen</item>
+        <item>Español</item>
+        <item>English</item>
+        <item>Français</item>
+        <item>Deutsch</item>
+        <item>中文</item>
+    </string-array>
+
+    <!-- Estadisticas -->
+    <string name="diario">TÄGLICH</string>
+    <string name="mensual">MONATLICH</string>
+    <string name="anual">JÄHRLICH</string>
+
+    <!-- Fragment_Calendario -->
+    <string name="miCalendario">Mein Kalender</string>
+    <string name="lunes">Mo</string>
+    <string name="martes">Di</string>
+    <string name="miercoles">Mi</string>
+    <string name="jueves">Do</string>
+    <string name="viernes">Fr</string>
+    <string name="sabado">Sa</string>
+    <string name="domingo">So</string>
+
+</resources>

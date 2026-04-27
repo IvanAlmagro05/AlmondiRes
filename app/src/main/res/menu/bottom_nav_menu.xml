@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_reservas"
+        android:icon="@drawable/ic_reservas"
+        android:title="@string/nav_reservas" />
+    <item
+        android:id="@+id/nav_calendario"
+        android:icon="@drawable/ic_calendario"
+        android:title="@string/nav_calendario" />
+    <item
+        android:id="@+id/nav_estadisticas"
+        android:icon="@drawable/ic_stats"
+        android:title="@string/nav_estadisticas" />
+    <item
+        android:id="@+id/nav_perfil"
+        android:icon="@drawable/ic_perfil"
+        android:title="@string/nav_perfil" />
+</menu>

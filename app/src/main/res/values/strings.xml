@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">AlmondiRes</string>
+    <!-- login -->
+    <string name="usuario">Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="escribeUsuario">Escribe el usuario...</string>
+    <string name="escribeContrasena">Escribe la contraseña...</string>
+    <string name="iniciarSesion">Iniciar Sesión</string>
+    <string name="registrarse">Registrarse</string>
+
+    <!-- register -->
+    <string name="registrate">¡REGISTRATE!</string>
+    <string name="editar_perfil">Editar Perfil</string>
+    <string name="email">Email:</string>
+    <string name="escribeEmail">Escribe el email...</string>
+    <string name="repiteEmail">Repite el email...</string>
+    <string name="repetirContrasena">Repite la contraseña:</string>
+    <string name="repiteContrasena">Repite la contraseña...</string>
+    <string name="telefono">Teléfono:</string>
+    <string name="escribeTelefono">Escribe el teléfono...</string>
+    <string name="guardar">Guardar</string>
+    <string name="volverAtras">Volver atrás</string>
+    <string name="atras">Atrás</string>
+    <string name="escribeNombre">Escribe tu nombre...</string>
+    <string name="btn_add_alojamiento">Añadir Alojamiento</string>
+    <string name="hint_nombre_alojamiento">Nombre del alojamiento</string>
+    <string name="hint_precio_alojamiento">Precio</string>
+    <string name="registro_completado">Registro completado con éxito</string>
+    <string name="error_registro">Error al crear el usuario</string>
+
+    <!-- main -->
+    <string name="reservar">Reservar</string>
+    <string name="llamanos">Llamanos</string>
+
+    <!-- reservas -->
+    <string name="fechaInicio">Fecha Inicio: </string>
+    <string name="fechaFin">Fecha Fin:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="nombreCliente">Nombre del cliente</string>
+    <string name="numNoches">Nº Noches:</string>
+    <string name="numTelefono">Nº Teléfono:</string>
+    <string name="seleccionar_alojamiento">Selecciona Alojamiento</string>
+    <string name="edtNumTelefono">Teléfono...</string>
+    <string name="alojamiento1">Alojamiento 1</string>
+    <string name="alojamiento2">Alojamiento 2</string>
+    <string name="alojamiento3">Alojamiento 3</string>
+    <string name="alojamiento4">Alojamiento 4</string>
+    <string name="borrar"> Borrar</string>
+    <string name="error_fecha_fin">La fecha de fin debe ser posterior a la fecha de inicio</string>
+    <string name="confirmacion_reserva">Confirmación enviada a %1$s.</string>
+    <string name="sms_reserva">Su reserva del día %1$s al %2$s por %3$s ha sido confirmada.</string>
+    <string name="error_sms_reserva">Error SMS: </string>
+
+
+    <!--Perfil-->
+    <string name="cerrar_sesion">Cerrar sesión</string>
+
+    <!-- item reservas -->
+    <string name="precioTotal">Precio total: </string>
+    <string name="cancelar">X</string>
+    <string name="noches">Noches: </string>
+    <string name="editar">Editar</string>
+
+    <!-- dialog confirmacion -->
+    <string name="pregunta_cancelar">¿Estás seguro de cancelar la reserva?</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="boton_cancelar">Cancelar</string>
+    <string name="editar_reserva">Editar Reserva</string>
+    <string name="selecciona_alojamiento">Selecciona Alojamiento: </string>
+
+    <!-- Toasts -->
+    <string name="error_login">Usuario o contraseña incorrectos</string>
+    <string name="fecha_ocupada">Esta fecha ya está ocupada</string>
+    <string name="fecha_NoOcupada">Esta fecha está libre</string>
+    <string name="error_password">Las contraseñas no coinciden</string>
+    <string name="campos_vacios">Por favor, rellena todos los campos</string>
+    <string name="perfil_actualizado">Perfil actualizado correctamente</string>
+    <string name="error_perfil_actualizado">Perfil no se ha actualizado correctamente</string>
+
+    <!-- Menu -->
+    <string name="nav_reservas">Reservas</string>
+    <string name="nav_calendario">Calendario</string>
+    <string name="nav_perfil">Perfil</string>
+    <string name="nav_estadisticas">Estadísticas</string>
+    <string name="nav_logout">Cerrar Sesión</string>
+
+    <!-- Estadisticas -->
+    <string name="estadisticas">Estadísticas</string>
+    <string name="ingresos_diarios">Ingresos Diarios (Hoy)</string>
+    <string name="ingresos_mensuales">Ingresos Mensuales (Mes actual)</string>
+    <string name="ingresos_anuales">Ingresos Anuales (Año actual)</string>
+    <string name="general">General</string>
+
+    <!-- idiomas -->
+    <string name="idiomas">Idiomas</string>
+
+    <string-array name="idiomas">
+        <item>Seleccionar idioma</item>
+        <item>Español</item>
+        <item>English</item>
+        <item>Français</item>
+        <item>Deutsch</item>
+        <item>中文</item>
+    </string-array>
+
+    <!-- Estadisticas -->
+    <string name="diario">DIARIO</string>
+    <string name="mensual">MENSUAL</string>
+    <string name="anual">ANUAL</string>
+
+    <!-- Fragment_Calenderio -->
+    <string name="miCalendario">Mi Calendario</string>
+    <string name="lunes">L</string>
+    <string name="martes">M</string>
+    <string name="miercoles">X</string>
+    <string name="jueves">J</string>
+    <string name="viernes">V</string>
+    <string name="sabado">S</string>
+    <string name="domingo">D</string>
+
+
+</resources>

@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">AlmondiRes</string>
+
+    <!-- login -->
+    <string name="usuario">用户名</string>
+    <string name="contrasena">密码</string>
+    <string name="escribeUsuario">请输入用户名...</string>
+    <string name="escribeContrasena">请输入密码...</string>
+    <string name="iniciarSesion">登录</string>
+    <string name="registrarse">注册</string>
+
+    <!-- register -->
+    <string name="registrate">立即注册！</string>
+    <string name="editar_perfil">编辑个人资料</string>
+    <string name="email">邮箱：</string>
+    <string name="escribeEmail">请输入邮箱...</string>
+    <string name="repiteEmail">请再次输入邮箱...</string>
+    <string name="repetirContrasena">重复密码：</string>
+    <string name="repiteContrasena">请再次输入密码...</string>
+    <string name="telefono">电话：</string>
+    <string name="escribeTelefono">请输入电话...</string>
+    <string name="guardar">保存</string>
+    <string name="volverAtras">返回</string>
+    <string name="atras">返回</string>
+    <string name="escribeNombre">请输入姓名...</string>
+    <string name="btn_add_alojamiento">添加住宿</string>
+    <string name="hint_nombre_alojamiento">住宿名称</string>
+    <string name="hint_precio_alojamiento">价格</string>
+    <string name="registro_completado">注册成功</string>
+    <string name="error_registro">创建用户失败</string>
+
+    <!-- main -->
+    <string name="reservar">预订</string>
+    <string name="llamanos">联系我们</string>
+
+    <!-- reservas -->
+    <string name="fechaInicio">开始日期：</string>
+    <string name="fechaFin">结束日期：</string>
+    <string name="nombre">姓名：</string>
+    <string name="nombreCliente">客户姓名</string>
+    <string name="numNoches">晚数：</string>
+    <string name="numTelefono">电话号码：</string>
+    <string name="seleccionar_alojamiento">选择住宿</string>
+    <string name="edtNumTelefono">电话...</string>
+    <string name="alojamiento1">住宿 1</string>
+    <string name="alojamiento2">住宿 2</string>
+    <string name="alojamiento3">住宿 3</string>
+    <string name="alojamiento4">住宿 4</string>
+    <string name="borrar">删除</string>
+    <string name="error_fecha_fin">结束日期必须晚于开始日期</string>
+    <string name="confirmacion_reserva">确认信息已发送至 %1$s。</string>
+    <string name="sms_reserva">您从 %1$s 到 %2$s 的预订（共 %3$s）已确认。</string>
+    <string name="error_sms_reserva">短信错误：</string>
+
+    <!-- Perfil -->
+    <string name="cerrar_sesion">退出登录</string>
+
+    <!-- item reservas -->
+    <string name="precioTotal">总价：</string>
+    <string name="cancelar">X</string>
+    <string name="noches">晚数：</string>
+    <string name="editar">编辑</string>
+
+    <!-- dialog confirmacion -->
+    <string name="pregunta_cancelar">确定要取消该预订吗？</string>
+    <string name="confirmar">确认</string>
+    <string name="boton_cancelar">取消</string>
+    <string name="editar_reserva">编辑预订</string>
+    <string name="selecciona_alojamiento">选择住宿：</string>
+
+    <!-- Toasts -->
+    <string name="error_login">用户名或密码错误</string>
+    <string name="fecha_ocupada">该日期已被占用</string>
+    <string name="fecha_NoOcupada">该日期可用</string>
+    <string name="error_password">两次输入的密码不一致</string>
+    <string name="campos_vacios">请填写所有字段</string>
+    <string name="perfil_actualizado">个人资料更新成功</string>
+    <string name="error_perfil_actualizado">个人资料更新失败</string>
+
+    <!-- Menu -->
+    <string name="nav_reservas">预订</string>
+    <string name="nav_calendario">日历</string>
+    <string name="nav_perfil">个人资料</string>
+    <string name="nav_estadisticas">统计</string>
+    <string name="nav_logout">退出登录</string>
+
+    <!-- Estadisticas -->
+    <string name="estadisticas">统计</string>
+    <string name="ingresos_diarios">每日收入（今天）</string>
+    <string name="ingresos_mensuales">每月收入（本月）</string>
+    <string name="ingresos_anuales">每年收入（今年）</string>
+    <string name="general">总览</string>
+
+    <!-- idiomas -->
+    <string name="idiomas">语言</string>
+
+    <string-array name="idiomas">
+        <item>选择语言</item>
+        <item>Español</item>
+        <item>English</item>
+        <item>Français</item>
+        <item>Deutsch</item>
+        <item>中文</item>
+    </string-array>
+
+    <!-- Estadisticas -->
+    <string name="diario">每日</string>
+    <string name="mensual">每月</string>
+    <string name="anual">每年</string>
+
+    <!-- Fragment_Calendario -->
+    <string name="miCalendario">我的日历</string>
+    <string name="lunes">一</string>
+    <string name="martes">二</string>
+    <string name="miercoles">三</string>
+    <string name="jueves">四</string>
+    <string name="viernes">五</string>
+    <string name="sabado">六</string>
+    <string name="domingo">日</string>
+
+</resources>

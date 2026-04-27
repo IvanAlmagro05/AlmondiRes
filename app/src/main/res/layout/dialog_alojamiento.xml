@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hint_nombre_alojamiento"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/edtNombreAlojamientoDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_nombre_alojamiento"
+        android:inputType="text" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="@string/hint_precio_alojamiento"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/edtPrecioAlojamientoDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="0.0"
+        android:inputType="numberDecimal" />
+
+</LinearLayout>
